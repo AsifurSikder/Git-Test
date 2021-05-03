@@ -1,4 +1,3 @@
-#This is my first project!
-MOre test 
-I love command promot
-\
+Solving Code Problem 
+;
+command prompt
